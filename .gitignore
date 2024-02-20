@@ -1,0 +1,78 @@
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+**/generated/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Windows thumbnail db
+Thumbs.db
+
+# OSX files
+.DS_Store
+
+# Android Studio
+*.iml
+.idea
+#.idea/workspace.xml - remove # and delete .idea if it better suit your needs.
+.gradle
+build/
+.navigation
+captures/
+output.json
+
+functionalj-all/target/
+
+functionalj-all/dependency-reduced-pom.xml
+
+functionalj-core/target/
+
+functionalj-elm/target/
+
+functionalj-store/target/
+
+functionalj-types/target/
+
+target/
+
+.project
+
+.settings/
+
+functionalj-all/.classpath
+
+functionalj-all/.factorypath
+
+functionalj-core/.classpath
+
+functionalj-core/.factorypath
+
+functionalj-elm/.classpath
+
+functionalj-store/.classpath
+
+functionalj-store/.factorypath
+
+functionalj-types/.classpath
+
+functionalj-types-tests/.classpath
+
+functionalj-types-tests/.factorypath
+
+functionalj-elm/pom.xml.versionsBackup
+
+functionalj-core/pom.xml.versionsBackup
+
+functionalj-store/pom.xml.versionsBackup
+
+functionalj-all/pom.xml.versionsBackup
+
+functionalj-types/pom.xml.versionsBackup
+
+functionalj-types-tests/pom.xml.versionsBackup
+
+pom.xml.versionsBackup
